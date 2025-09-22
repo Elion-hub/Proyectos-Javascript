@@ -47,4 +47,4 @@ Con este proyecto se refuerzan conceptos como:
 - Implementar categorías o prioridades para las tareas.  
 - Diseño más atractivo con animaciones.  
 
-![Lista de Tareas](https://github.com/Elion-hub/Proyectos-Javascript/blob/main/Lista%20de%20Tareas/Lista-Tareas.PNG?raw=true)
+![Lista de Tareas](https://github.com/Elion-hub/Proyectos-Javascript/blob/main/Lista%20de%20Tareas/ListaDeTareas.PNG?raw=true)
