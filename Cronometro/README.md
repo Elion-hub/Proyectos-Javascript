@@ -44,4 +44,4 @@ MiCronometro/
 └─ imagenes/
     └─ favicon.png     → Icono del proyecto
 
-    ![Mi Cronómetro](https://raw.githubusercontent.com/Elion-hub/Proyectos-Javascript/main/Cronometro/Cronometro.PNG)
+    ![Mi Cronómetro](https://github.com/Elion-hub/Proyectos-Javascript/blob/main/Cronometro/Cronometro.PNG)
