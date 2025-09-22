@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 🎨 Color Aleatorio
 Descripción
 
@@ -81,4 +81,4 @@ Actualiza el color de fondo de la página automáticamente.
 Muestra el código del color generado para referencia o uso posterior.
 
 ![Citas Aleatorias](https://github.com/Elion-hub/Proyectos-Javascript/blob/main/Colores%20Aleatorios/ColoresAleatorios.PNG)
->>>>>>> 3c5099a940bb6ecc6c31f46d00d4ae56ae03cbc2
+
