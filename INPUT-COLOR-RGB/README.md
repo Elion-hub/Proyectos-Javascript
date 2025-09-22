@@ -32,4 +32,4 @@ Color-RGB/
 └── favicon.jpng.jpeg # Icono de la aplicación
 
 
-![INPUT-COLOR-RGB](https://github.com/Elion-hub/Proyectos-Javascript/blob/main/Color-RGB/Input-Color-RGB.PNG?raw=true)
+![INPUT-COLOR-RGB](https://github.com/Elion-hub/Proyectos-Javascript/blob/main/INPUT-COLOR-RGB/Input-Color-RGB.PNG?raw=true)
