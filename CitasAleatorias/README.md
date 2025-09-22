@@ -13,4 +13,5 @@
 - **JavaScript** ⚡  
 - **Bootstrap 5** 🅱️  
 
-![Citas Aleatorias](CitasAleatorias.png)
+
+![Citas Aleatorias](https://github.com/Elion-hub/Proyectos-Javascript/raw/main/CitasAleatorias/CitasAleatorias.PNG)
